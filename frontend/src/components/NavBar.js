@@ -1,9 +1,9 @@
 import React from "react";
-import toskalogo from "../assets/toskalogo.svg";
+import matthieu from "../assets/matthieu.jpeg";
 
 const NavBar = () => (
   <div className="navbar">
-    <img src={toskalogo} style={{ height: "100%" }} alt="toska" />
+    <img src={matthieu} style={{ height: "100%" }} alt="toska" />
   </div>
 );
 
